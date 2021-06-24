@@ -1,4 +1,4 @@
-# FaceRecognition-Multiple_UseCasess
+# FaceRecognition-UseCasess
 Task Description 📄
 
 ❄️ Create a program that perform below mentioned task upon recognizing a particular face. 
